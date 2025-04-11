@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const files = [
        
         'html-files/kissan-veggies.html',
+        'html-files/kissan-tools.html',
         
         
     ];
