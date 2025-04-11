@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', async () => {
        
         'html-files/kissan-veggies.html',
         'html-files/kissan-tools.html',
+        'html-files/kissan-pesticides.htm'
         
         
     ];
