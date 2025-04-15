@@ -64,3 +64,13 @@
   cursor: pointer;
   transition: opacity 0.5s ease;
 }
+
+.buy-button {
+    background-color: rgb(245, 176, 0);
+    color: black;
+  }
+  
+  .cart-button {
+    background-color: rgb(218, 230, 2);
+    color: black;
+  }
