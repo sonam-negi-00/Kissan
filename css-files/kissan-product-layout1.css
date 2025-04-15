@@ -1,3 +1,7 @@
+.checked {
+  color: orange;
+}
+
 .product-preview {
     width: 90%;
     max-width: 200px;
@@ -88,4 +92,5 @@
   .button-div {
     margin-bottom: 5px;
   }
+
   
