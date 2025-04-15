@@ -74,3 +74,18 @@
     background-color: rgb(218, 230, 2);
     color: black;
   }
+
+  .buy-button:hover,
+  .cart-button:hover {
+    opacity: 0.5;
+  }
+  
+  .buy-button:active,
+  .cart-button:active {
+    opacity: 0.8;
+  }
+  
+  .button-div {
+    margin-bottom: 5px;
+  }
+  
