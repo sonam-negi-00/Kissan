@@ -23,3 +23,10 @@
         height: 275px;
         object-fit: contain;
       }
+.original-price{
+    text-decoration: line-through;
+    display: inline-block;
+    margin-left: 8px;
+    color: rgba(30,30,0.544);
+    font-size:24px;
+}
