@@ -52,3 +52,15 @@
 .product-info{
     margin-left: 5px;
 }
+
+.buy-button,
+.cart-button {
+  border-radius: 23px;
+  border: none;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 600;
+  padding: 4px 6px;
+  cursor: pointer;
+  transition: opacity 0.5s ease;
+}
