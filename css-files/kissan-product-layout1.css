@@ -30,3 +30,9 @@
     color: rgba(30,30,0.544);
     font-size:24px;
 }
+.offer-price{
+    display: inline-block;
+    font-weight:700;
+    font-size: 15px;
+    margin: 4px 0;
+}
