@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         'html-files/kissan-tools.html',
         'html-files/kissan-pesticides.htm'
         
+        
     ];
 
     const contentDiv = document.getElementById('content');
