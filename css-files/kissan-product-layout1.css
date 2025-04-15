@@ -12,3 +12,14 @@
     transform: translate(-15px);
     box-shadow: 0px 12px 8px 10px grey;
       }
+
+.product-image-div {
+        width: 100%;
+        cursor: pointer;
+      }
+      
+.product-image {
+        width: 100%;
+        height: 275px;
+        object-fit: contain;
+      }
