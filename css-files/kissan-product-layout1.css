@@ -46,3 +46,6 @@
     color: rgb(40,40,40);
     margin-top: 4px;
 }
+.customer-rating{
+    display: inline-block;
+}
