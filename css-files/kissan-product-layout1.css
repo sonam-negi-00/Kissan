@@ -92,5 +92,12 @@
   .button-div {
     margin-bottom: 5px;
   }
+  .all-products-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: auto; 
+    padding: 0;
+  }
 
   
