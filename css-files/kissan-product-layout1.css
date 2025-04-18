@@ -104,4 +104,9 @@
   opacity: 0.5;
 }
 
-  
+.item-category-name {
+  color: rgb(242, 242, 242);
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Playpen Sans", Roboto;
+}
