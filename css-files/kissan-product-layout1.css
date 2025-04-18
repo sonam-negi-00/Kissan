@@ -99,5 +99,9 @@
     margin: auto; 
     padding: 0;
   }
+  .buy-button:active,
+.cart-button:active {
+  opacity: 0.5;
+}
 
   
