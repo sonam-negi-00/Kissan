@@ -110,3 +110,15 @@
   font-weight: 700;
   font-family: "Playpen Sans", Roboto;
 }
+.item-category {
+  
+  grid-column: span 5; 
+  background-color: rgba(125, 196, 2, 0.908);
+  box-shadow: 1px 5px 7px grey;
+  margin: 20px 0px 20px 0px ; 
+  border-radius: 16px;
+  text-align: center;
+  padding: 10px; 
+z-index:1;
+
+}
