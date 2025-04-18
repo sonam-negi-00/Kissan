@@ -1,0 +1,112 @@
+.checked {
+  color: orange;
+}
+
+.product-preview {
+    width: 90%;
+    max-width: 200px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 5px 5px 3px grey;
+    background-color: aliceblue;
+    transition: transform 0.3s ease-in-out;
+    }
+
+.product-preview:hover {
+    transform: translate(-15px);
+    box-shadow: 0px 12px 8px 10px grey;
+      }
+
+.product-image-div {
+        width: 100%;
+        cursor: pointer;
+      }
+      
+.product-image {
+        width: 100%;
+        height: 275px;
+        object-fit: contain;
+      }
+.original-price{
+    text-decoration: line-through;
+    display: inline-block;
+    margin-left: 8px;
+    color: rgba(30,30,0.544);
+    font-size:24px;
+}
+.offer-price{
+    display: inline-block;
+    font-weight:700;
+    font-size: 15px;
+    margin: 4px 0;
+}
+.product-name{
+    font-weight:400;
+    font-size: 23px;
+    margin-top:7px;
+}
+.producer{
+    font-size:17px;
+    color: rgb(40,40,40);
+    margin-top: 4px;
+}
+.customer-rating{
+    display: inline-block;
+}
+.product-info{
+    margin-left: 5px;
+}
+
+.buy-button,
+.cart-button {
+  border-radius: 23px;
+  border: none;
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 600;
+  padding: 4px 6px;
+  cursor: pointer;
+  transition: opacity 0.5s ease;
+}
+
+.buy-button {
+    background-color: rgb(245, 176, 0);
+    color: black;
+  }
+  
+  .cart-button {
+    background-color: rgb(218, 230, 2);
+    color: black;
+  }
+
+  .buy-button:hover,
+  .cart-button:hover {
+    opacity: 0.5;
+  }
+  
+  .buy-button:active,
+  .cart-button:active {
+    opacity: 0.8;
+  }
+  
+  .button-div {
+    margin-bottom: 5px;
+  }
+  .all-products-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: auto; 
+    padding: 0;
+  }
+  .buy-button:active,
+.cart-button:active {
+  opacity: 0.5;
+}
+
+.item-category-name {
+  color: rgb(242, 242, 242);
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Playpen Sans", Roboto;
+}
