@@ -92,5 +92,21 @@
   .button-div {
     margin-bottom: 5px;
   }
+  .all-products-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin: auto; 
+    padding: 0;
+  }
+  .buy-button:active,
+.cart-button:active {
+  opacity: 0.5;
+}
 
-  
+.item-category-name {
+  color: rgb(242, 242, 242);
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Playpen Sans", Roboto;
+}
