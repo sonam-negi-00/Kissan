@@ -83,12 +83,11 @@
   .cart-button:hover {
     opacity: 0.5;
   }
-  
   .buy-button:active,
-  .cart-button:active {
-    opacity: 0.8;
-  }
-  
+.cart-button:active {
+  opacity: 0.5;
+}
+
   .button-div {
     margin-bottom: 5px;
   }
@@ -99,10 +98,7 @@
     margin: auto; 
     padding: 0;
   }
-  .buy-button:active,
-.cart-button:active {
-  opacity: 0.5;
-}
+  
 
 .item-category-name {
   color: rgb(242, 242, 242);
