@@ -1,4 +1,12 @@
 document.addEventListener('DOMContentLoaded', async () => {
+    const headerResponse = await fetch('html-files/kissan-header.html');
+    if (headerResponse.ok) {
+        const headerText = await headerResponse.text();
+        document.getElementById('header').innerHTML = headerText;
+    } else {
+        console.error('Failed to load: header.html');
+    }
+    
     const files = [
        
         'html-files/kissan-veggies.html',
