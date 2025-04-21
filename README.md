@@ -66,7 +66,6 @@ Kissan/
 | **Contributor 4**| [GitHub](https://github.com/contributor4)        | [LinkedIn](https://www.linkedin.com/in/contributor4)  |
 | **Contributor 5**| [GitHub](https://github.com/contributor5)        | [LinkedIn](https://www.linkedin.com/in/contributor5)  |
 
-> 🔁 Replace placeholder contributor links with actual usernames and LinkedIn URLs.
 
 ---
 
