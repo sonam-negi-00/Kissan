@@ -6,7 +6,16 @@
 
     <form class="search-form" onsubmit="handleSearch(event)"> 
         <div class="search-container" id="searchBox">
-
+            <input 
+            class="search-input" 
+            type="text" 
+            id="searchText"
+            name="searchText" 
+            placeholder="Search here..." 
+            maxlength="30"
+            oninput="toggleClearButton()"
+          >
+  
         </div>   
     </form>
 
