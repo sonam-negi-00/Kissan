@@ -60,7 +60,7 @@ Kissan/
 
 | Name             | GitHub Profile                                   | LinkedIn Profile                                |
 |------------------|--------------------------------------------------|-------------------------------------------------|
-| **Sonam Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [LinkedIn](www.linkedin.com/in/sonam-norphel-negi) |
+| **Sonam Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [LinkedIn](https://www.linkedin.com/in/sonam-norphel-negi) |
 | **Contributor 2**| [GitHub](https://github.com/contributor2)        | [LinkedIn](https://www.linkedin.com/in/contributor2)  |
 | **Contributor 3**| [GitHub](https://github.com/contributor3)        | [LinkedIn](https://www.linkedin.com/in/contributor3)  |
 | **Contributor 4**| [GitHub](https://github.com/contributor4)        | [LinkedIn](https://www.linkedin.com/in/contributor4)  |
