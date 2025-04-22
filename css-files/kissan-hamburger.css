@@ -32,4 +32,9 @@ ham-menu {
   height: 5px;
   width: 100%;
   background-color: #9420ab;
+  border-radius: 25px;
+  position: absolute;
+  left: 0;
+  transform: translateY(-50%);
+  transition: .3s ease;
 }
