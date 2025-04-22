@@ -76,6 +76,17 @@
         color: black;
         display: none;
       }
+      .search-container::before {
+        content: "";
+        position: absolute;
+        top: -20px; /* Move higher */
+        left: 8px; /* Adjust left */
+        width: 38px; /* Bigger leaf */
+        height: 22px;
+        background: linear-gradient(45deg, #3dbd3d, #2d8f2d); /* Green leaf gradient */
+        border-radius: 50%;
+        transform: rotate(-25deg);
+      }
       
       
         
