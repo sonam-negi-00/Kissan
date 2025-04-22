@@ -65,6 +65,9 @@
       .search-icon:active {
         transform: scale(0.9);
       }
+      .search-icon:hover {
+        opacity: 1;
+      }
       
       
         
