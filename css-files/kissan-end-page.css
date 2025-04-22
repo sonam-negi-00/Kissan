@@ -26,3 +26,11 @@ body {
     transform: scale(1.05);
   }
   
+  .footer-links ul p {
+    font-weight: bold;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 12px;
+    cursor: pointer;
+  }
+  
