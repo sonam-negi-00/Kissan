@@ -31,8 +31,8 @@
     text-decoration: line-through;
     display: inline-block;
     margin-left: 8px;
-    color: rgba(30,30,0.544);
-    font-size:24px;
+    color: rgba(75,75,75,0.544);
+    font-size:13px;
 }
 .offer-price{
     display: inline-block;
