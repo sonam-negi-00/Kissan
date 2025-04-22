@@ -38,11 +38,11 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 50px;  /* Initially small */
+        width: 50px;  
         height: 50px;
-        background: white; /* Apple color */
-        border-radius: 50%; /* Circular shape */
-        border: 3px solid #bfbfbf; /* Light gray border */
+        background: white; 
+        border-radius: 50%; 
+        border: 3px solid #bfbfbf; 
         position: relative;
         cursor: pointer;
         transition: all 0.3s ease-in-out;
@@ -56,7 +56,7 @@
       .search-icon {
         position: absolute;
         right: 15px;
-        width: 24px;  /* Slightly bigger */
+        width: 24px;  
         height: 24px;
         cursor: pointer;
         opacity: 0.8;
@@ -79,12 +79,11 @@
       .search-container::before {
         content: "";
         position: absolute;
-        top: -20px; /* Move higher */
-        left: 8px; /* Adjust left */
-        width: 38px; /* Bigger leaf */
+        top: -20px; 
+        left: 8px; 
+        width: 38px; 
         height: 22px;
-        background: linear-gradient(45deg, #3dbd3d, #2d8f2d); /* Green leaf gradient */
-        border-radius: 50%;
+        background: linear-gradient(45deg, #3dbd3d, #2d8f2d); 
         transform: rotate(-25deg);
       }
       .search-container::after {
@@ -94,11 +93,14 @@
         left: 26px;
         width: 6px;
         height: 20px;
-        background: #5a3d2b; /* Brownish stem */
+        background: #5a3d2b;
         border-radius: 50%;
         transform: rotate(-10deg);
       }
-      
+      .search-container.active {
+        width: 280px;
+        border-radius: 35px;
+      }
         
       .right-section{
 
