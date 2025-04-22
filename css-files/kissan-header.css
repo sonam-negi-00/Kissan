@@ -34,6 +34,23 @@
         height: 100%;
         position: relative;
       }
+      .search-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50px;  /* Initially small */
+        height: 50px;
+        background: white; /* Apple color */
+        border-radius: 50%; /* Circular shape */
+        border: 3px solid #bfbfbf; /* Light gray border */
+        position: relative;
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+        box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.2), 
+                    0px 4px 14px rgba(0, 0, 0, 0.15);
+        overflow: hidden;
+      }
+      
       
         
       .right-section{
