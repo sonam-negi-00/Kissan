@@ -35,3 +35,20 @@
 .slides:nth-child(3){
     background: linear-gradient(135deg, #96e6a1 0%, #d4fc79 100%);
 }
+
+.slides h2{
+    font-size: 32px;
+    margin: 10px, 0;
+    animation: fadeIn 1s ease-in-out;
+}
+.slides p{
+    font-size: 18px;
+    margin: 10px, 0;
+    line-height: 1.6;
+    animation: fadeIn 1s ease-in-out;
+}
+.slides icons{
+    font-size: 50px;
+    margin: 15px;
+    animation: popIn 0.8s ease-in-out;
+}
