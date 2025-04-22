@@ -9,3 +9,29 @@
     
    </div>
    
+    <div>
+        <button class="open-popup-btn" onclick="openPopup()">Sign In</button>
+<div class="popup-overlay" id="popupOverlay">
+    <div class="popup-box">
+<span class="close-btn" onclick="closePopup()">&times;</span>
+<h2>Sign In</h2>
+<form id="signInForm" onsubmit="validateForm(event)">
+    <input 
+         type="email"
+        id="email"
+        placeholder="Enter your email"
+        oninput="validateInput(this)"
+        required/>
+       <span id="emailError" class="error-message"></span> 
+       <input 
+            type="text"
+            id="password"
+            placeholder="Enter your password"
+            oninput="validateInput(this)"
+            required/>
+            <span id="passwordError" class="error-message"></span>
+            <button type="submit">Sign In</button>
+            </form>
+         </div>
+    </div>
+ </div>
