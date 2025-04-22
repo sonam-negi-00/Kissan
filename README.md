@@ -62,7 +62,7 @@ Kissan/
 |------------------|--------------------------------------------------|-------------------------------------------------|
 | **Sonam Norphel Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [Sonam Negi](https://www.linkedin.com/in/sonam-norphel-negi) |
 | **Krishna Nautiyal**| [@krishnanautiyal](https://github.com/krishnanautiyal)        | [Krishna Nautiyal](https://www.linkedin.com/in/krishnanautiyal)  |
-| **Contributor 3**| [GitHub](https://github.com/contributor3)        | [LinkedIn](https://www.linkedin.com/in/contributor3)  |
+| **Shamreet Singh**| [@ShamreetSingh](https://github.com/ShamreetSingh)        | [Shamreet Singh](https://www.linkedin.com/in/shamreetsingh)  |
 | **Contributor 4**| [GitHub](https://github.com/contributor4)        | [LinkedIn](https://www.linkedin.com/in/contributor4)  |
 | **Contributor 5**| [GitHub](https://github.com/contributor5)        | [LinkedIn](https://www.linkedin.com/in/contributor5)  |
 
