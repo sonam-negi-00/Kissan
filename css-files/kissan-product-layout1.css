@@ -160,3 +160,15 @@ z-index:1;
     grid-column: span 4;
   }
 }
+
+@media (max-width: 1100px) {
+  .all-products-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .item-category {
+    grid-column: span 3; 
+  }
+  .item-category-1 {
+    grid-column: span 3; 
+  }
+}
