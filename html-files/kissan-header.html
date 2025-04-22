@@ -4,8 +4,31 @@
 </div>
 <div class="middle-section">
 
+    <form class="search-form" onsubmit="handleSearch(event)"> 
+        <div class="search-container" id="searchBox">
+            <input 
+            class="search-input" 
+            type="text" 
+            id="searchText"
+            name="searchText" 
+            placeholder="Search here..." 
+            maxlength="30"
+            oninput="toggleClearButton()"
+          >
+          <img src="images/icons/search-img.png" class="search-icon" alt="Search" onclick="expandSearch()">
+          <span class="clear-btn" onclick="clearSearch(event)">✖</span>
+        </div>   
+    </form>
+  
+    
 </div>
 <div class="right-section">
+    <div>
+        <button class="open-popup-btn" onclick="openPopup()">Sign In</button>
+<div class="popup-overlay" id="popupOverlay">
+    <div class="popup-box">
+<span class="close-btn" onclick="closePopup()">&times;</span>
+
     
    </div>
    
