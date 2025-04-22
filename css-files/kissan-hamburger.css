@@ -17,7 +17,7 @@
 .off-screen-menu.active {
   right: 0;
 }
-ham-menu {
+.ham-menu {
   height: 40px;
   width: 40px;
   margin-left: auto;
