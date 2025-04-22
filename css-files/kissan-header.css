@@ -104,6 +104,18 @@
       .search-container.active .search-input {
         display: block;
     }
+    .search-input {
+      flex: 1;
+      width: 100%;
+      padding: 12px 40px 12px 15px;
+      height: 100%;
+      font-size: 16px;
+      border: none;
+      outline: none;
+      display: none; 
+      background: none;
+      color: black;
+    }
         
       .right-section{
 
