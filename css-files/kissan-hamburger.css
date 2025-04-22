@@ -38,3 +38,6 @@ ham-menu {
   transform: translateY(-50%);
   transition: .3s ease;
 }
+.ham-menu span:nth-child(1) {
+  top: 25%;
+}
