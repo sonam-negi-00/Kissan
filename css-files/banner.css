@@ -1,0 +1,10 @@
+.slider-container{
+    width: 100%;
+    background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    z-index: 0;
+    margin-bottom: 10px;
+}
