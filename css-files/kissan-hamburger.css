@@ -1,2 +1,9 @@
-
-
+.off-screen-menu {
+  background-color: rgb(33, 28, 28);
+  height: 50vh;
+  width: 100%;
+  max-width: 300px;
+  position: fixed;
+  top: 0;
+  right: -300px;
+}
