@@ -53,6 +53,15 @@
       .search-container.active .search-input {
         display: block;
       }
+      .search-icon {
+        position: absolute;
+        right: 15px;
+        width: 24px;  /* Slightly bigger */
+        height: 24px;
+        cursor: pointer;
+        opacity: 0.8;
+        transition: opacity 0.3s, transform 0.2s;
+      }
       
       
         
