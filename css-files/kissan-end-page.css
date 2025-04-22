@@ -81,4 +81,16 @@ body {
     margin-right: 6px;
   }
   
+  @media (max-width: 768px) {
+    .footer-links {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .footer-links ul {
+      width: 100%;
+      max-width: 300px;
+      text-align: center;
+    }
+  }
   
