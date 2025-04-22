@@ -50,6 +50,9 @@
                     0px 4px 14px rgba(0, 0, 0, 0.15);
         overflow: hidden;
       }
+      .search-container.active .search-input {
+        display: block;
+      }
       
       
         
