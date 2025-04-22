@@ -101,6 +101,9 @@
         width: 280px;
         border-radius: 35px;
       }
+      .search-container.active .search-input {
+        display: block;
+    }
         
       .right-section{
 
