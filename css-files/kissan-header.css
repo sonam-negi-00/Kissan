@@ -68,6 +68,14 @@
       .search-icon:hover {
         opacity: 1;
       }
+      .clear-btn {
+        position: absolute;
+        right: 40px;
+        font-size: 16px;
+        cursor: pointer;
+        color: black;
+        display: none;
+      }
       
       
         
