@@ -51,3 +51,34 @@ body {
     transform: translateX(4px);
   }
   
+  .policies {
+    background-color: #131A22;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 14px;
+  }
+  
+  .policies .pages {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .policies .pages a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .policies .pages a:hover {
+    color: #00a8e1;
+  }
+  
+  .policies i {
+    margin-right: 6px;
+  }
+  
+  
