@@ -172,3 +172,19 @@ z-index:1;
     grid-column: span 3; 
   }
 }
+
+@media (max-width: 875px) {
+  .all-products-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .product-preview {
+    max-width: 100%; 
+  }
+  .item-category {
+    grid-column: span 2; 
+  }
+  .item-category-1 {
+    grid-column: span 2; 
+  }
+}
