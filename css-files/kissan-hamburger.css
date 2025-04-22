@@ -28,3 +28,8 @@ ham-menu {
   top: 10px;
   bottom: 5px;
 }
+.ham-menu span {
+  height: 5px;
+  width: 100%;
+  background-color: #9420ab;
+}
