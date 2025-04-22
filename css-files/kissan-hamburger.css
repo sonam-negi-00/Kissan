@@ -44,3 +44,6 @@ ham-menu {
 .ham-menu span:nth-child(2) {
   top: 50%;
 }
+.ham-menu span:nth-child(3) {
+  top: 75%;
+}
