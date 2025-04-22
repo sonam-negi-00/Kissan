@@ -188,3 +188,23 @@ z-index:1;
     grid-column: span 2; 
   }
 }
+
+@media (max-width: 600px) {
+  .all-products-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .product-preview {
+    max-width: 100%; 
+  }
+
+  .product-image {
+    height: 220px; }
+  .item-category {
+    grid-column: span 1; 
+
+  }
+  .item-category-1 {
+    grid-column: span 1; 
+  }
+}
