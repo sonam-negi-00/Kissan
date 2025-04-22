@@ -51,3 +51,6 @@ ham-menu {
   top: 50%;
   transform: translateY(-50%) rotate(45deg);
 }
+.ham-menu.active span:nth-child(2) {
+  opacity: 0;
+}
