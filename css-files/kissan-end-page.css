@@ -4,3 +4,13 @@ body {
     background-color: #f3f3f3;
   }
   
+  .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #232F3E;
+    color: white;
+    padding: 40px 10px;
+    gap: 20px;
+  }
+  
