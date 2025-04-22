@@ -22,4 +22,9 @@ ham-menu {
   width: 40px;
   margin-left: auto;
   cursor: pointer;
+  object-fit: contain;
+  position: absolute;
+  right: 7px;
+  top: 10px;
+  bottom: 5px;
 }
