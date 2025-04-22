@@ -136,3 +136,15 @@ z-index:1;
   font-weight: 700;
   font-family: "Playpen Sans", Roboto;
 }
+
+@media (max-width:1600px){
+  .all-products-grid{
+    grid-template-columns: repeat(5, 1fr);
+  }
+  .item-category{
+    grid-column: span 5;
+  }
+  .item-category-1{
+    grid-column:span 5;
+  }
+}
