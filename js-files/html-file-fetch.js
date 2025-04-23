@@ -11,8 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
        
         'html-files/kissan-veggies.html',
         'html-files/kissan-fertilizers.html',
-        
-        
+        'html-files/kissan-end-page.html',
         'html-files/kissan-flowers.htm',
         'html-files/kissan-tools.html',
         'html-files/kissan-pesticides.htm'
