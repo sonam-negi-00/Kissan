@@ -102,3 +102,8 @@
 
 
   }
+
+  .off-screen-menu {
+    max-width: 250px; 
+height:40vh ;
+  }
