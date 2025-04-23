@@ -119,3 +119,11 @@
   input.valid {
     border-color: green;
   }
+
+  .error-message {
+    color: red;
+    font-size: 0.875em;
+    display: block;
+    margin-top: 5px;
+  }
+  
