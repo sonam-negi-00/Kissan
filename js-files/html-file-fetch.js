@@ -38,6 +38,18 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
         }
 
+        if (slides && navItems.length > 0) {
+            toggleSlide(0);
+            navItems.forEach((item, index) => {
+                item.addEventListener('click', () => {
+                    toggleSlide(index);
+                });
+            });
+        }
+    } else {
+        console.error('Failed to load: slider.htm');
+    }
+
     const contentDiv = document.getElementById('content');
         for (const file of files) {
         const response = await fetch(file);
