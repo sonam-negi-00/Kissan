@@ -126,3 +126,17 @@ height:40vh ;
   object-fit: contain;
   transition: all 0.3s ease; /* smooth resize */
 }
+
+
+
+
+/* Hamburger Menu */
+.ham-menu {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 15px;
+  right: 10px;
+  cursor: pointer;
+}
+
