@@ -16,3 +16,7 @@
     background-color: white;;
     color: rgb(255,166,0);
 }
+
+.open-popup-btn:active{
+    opacity:0.6;
+}
