@@ -58,3 +58,8 @@
   top: 50%;
   transform: translateY(-50%) rotate(-45deg);
 }
+
+.home-img, .customer-img, .setting-img, .about-us-img {
+  height: 40px;
+  width: 40px;
+}
