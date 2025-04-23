@@ -92,3 +92,16 @@
     border-color: #ccc;
     box-shadow: none;
   } 
+
+
+  .popup-box button {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(255, 166, 0);
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 18px;
+    margin-top: 10px;
+  }
