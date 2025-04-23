@@ -69,4 +69,8 @@
   padding-left: 25px;
   text-align: left;
   font-weight: 400;
+  font-size: 25px;
+  color:aliceblue;
+  margin: 0; 
+  cursor:pointer;
 }
