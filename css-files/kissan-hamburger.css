@@ -81,3 +81,7 @@
   padding: 10px 0; 
   cursor: pointer;
 }
+
+.hamburger-items li img {
+  margin-right: 15px; 
+}
