@@ -107,3 +107,10 @@
     max-width: 250px; 
 height:40vh ;
   }
+
+  .home-img, .customer-img, .setting-img, .about-us-img {
+    height: 30px;
+    width: 30px;
+  }
+
+}
