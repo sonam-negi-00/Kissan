@@ -127,3 +127,13 @@
     margin-top: 5px;
   }
   
+
+  @media (max-width: 600px) {
+    .open-popup-btn {
+      font-size: 14px;
+      padding: 10px 15px;
+      top: 10px;
+      right: 70px;
+    }
+  }
+  
