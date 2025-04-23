@@ -111,3 +111,11 @@
     background-color: white;
     color: rgb(255, 166, 0);
   }
+
+  input.invalid {
+    border-color: red;
+  }
+  
+  input.valid {
+    border-color: green;
+  }
