@@ -81,3 +81,9 @@
     border-color:green;
     box-shadow: 0 0 10px 2px green;
 }
+
+.popup-box input.invalid {
+    border-color: red;
+    box-shadow: 0 0 10px 2px red;
+  }
+  
