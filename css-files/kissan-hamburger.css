@@ -85,3 +85,20 @@
 .hamburger-items li img {
   margin-right: 15px; 
 }
+
+@media (max-width: 600px) {
+ 
+  
+  .ham-menu{
+    width:30px;
+    height:30px;
+    margin-left:20px;
+  cursor: pointer;
+  object-fit: contain;
+  position: absolute;
+  right: 7px;
+  top: 16px;
+  bottom: 5px;
+
+
+  }
