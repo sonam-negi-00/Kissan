@@ -53,3 +53,7 @@
     color: #aaa;
     cursor: pointer;
   }
+
+  .close-btn:hover{
+    color:#000;
+  }
