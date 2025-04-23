@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
 const slides = document.querySelector('.slides');
 const navItems = document.querySelectorAll('.nav-item');
 
@@ -9,3 +10,4 @@ function toggleSlide(index) {
 }
 
 toggleSlide(0);
+});
