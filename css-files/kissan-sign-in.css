@@ -105,3 +105,9 @@
     border-radius: 18px;
     margin-top: 10px;
   }
+
+
+  .popup-box button:hover {
+    background-color: white;
+    color: rgb(255, 166, 0);
+  }
