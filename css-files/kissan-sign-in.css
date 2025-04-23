@@ -11,3 +11,8 @@
  right:105px;
  transition:background-color 0.3s ease, color 0.3s ease,opacity 0.3s ease;
 }
+
+.open-popup-btn:hover{
+    background-color: white;;
+    color: rgb(255,166,0);
+}
