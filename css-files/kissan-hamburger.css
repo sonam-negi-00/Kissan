@@ -63,3 +63,10 @@
   height: 40px;
   width: 40px;
 }
+
+.hamburger-items {
+  list-style-type: none;
+  padding-left: 25px;
+  text-align: left;
+  font-weight: 400;
+}
