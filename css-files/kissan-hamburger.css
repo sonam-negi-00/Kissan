@@ -140,3 +140,18 @@ height:40vh ;
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  .cart-icon {
+    width: 30px;
+    height: 30px;
+    top: 18px;
+    right: 55px;
+  }
+  .ham-menu {
+    width: 30px;
+    height: 30px;
+    top: 18px;
+    right: 10px;
+  }
+}
+
