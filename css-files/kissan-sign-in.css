@@ -57,3 +57,8 @@
   .close-btn:hover{
     color:#000;
   }
+
+  .popup-box h2{
+    margin-top: 0;
+    color: #333;
+  }
