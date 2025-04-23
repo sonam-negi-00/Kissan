@@ -74,3 +74,10 @@
   margin: 0; 
   cursor:pointer;
 }
+
+.hamburger-items li {
+  display: flex; 
+  align-items: center;
+  padding: 10px 0; 
+  cursor: pointer;
+}
