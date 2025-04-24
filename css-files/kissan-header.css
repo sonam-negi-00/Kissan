@@ -98,11 +98,11 @@
         transform: rotate(-10deg);
       }
       .search-container.active {
-        width: 280px;
-        border-radius: 35px;
+        width:280px;
+        border-radius:35px;
       }
       .search-container.active .search-input {
-        display: block;
+        display:block;
     }
     .search-input {
       flex: 1;
@@ -114,7 +114,7 @@
       outline: none;
       display: none; 
       background: none;
-      color: black;
+     color:black;
     }
         
       .right-section{
