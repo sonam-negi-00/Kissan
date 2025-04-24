@@ -8,11 +8,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
     
     const files = [
-       
         'html-files/kissan-veggies.html',
         'html-files/kissan-fertilizers.html',
-        
-        
         'html-files/kissan-flowers.htm',
         'html-files/kissan-tools.html',
         'html-files/kissan-pesticides.htm'
@@ -20,6 +17,17 @@ document.addEventListener('DOMContentLoaded', async () => {
         
     ];
 
+    const sliderResponse = await fetch('html-files/slider.htm');
+    if (sliderResponse.ok) {
+        const sliderDiv = document.querySelector('.slider-content');
+        const sliderText = await sliderResponse.text();
+        sliderDiv.innerHTML = sliderText; 
+    
+        initializeSlider();
+    } else {
+        console.error('Failed to load: slider.htm');
+    }
+    
     const contentDiv = document.getElementById('content');
         for (const file of files) {
         const response = await fetch(file);
