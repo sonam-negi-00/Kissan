@@ -63,7 +63,7 @@
     color: #333;
   }
 
- popup-box input[type="text"],
+ .popup-box input[type="text"],
 .popup-box input[type="password"],
 .popup-box input[type="email"] {
   width: 90%;
