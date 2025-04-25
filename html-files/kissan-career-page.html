@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Careers at Kissan</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: #f0f9f0;
+      margin: 0;
+      padding: 0;
+      color: #2d3436;
+    }
+  
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+  
+    h2 {
+      color: #2ecc71;
+      margin-top: 2rem;
+    }
+  
+    footer {
+      text-align: center;
+      padding: 1.2rem;
+      background: #e8f5e9;
+      font-size: 0.95rem;
+      color: #555;
+    }
+    header {
+        background: #2ecc71;
+        color: white;
+        padding: 3rem 2rem;
+        text-align: center;
+        animation: floaty 2s ease-in-out infinite alternate;
+      }
+      
+      @keyframes floaty {
+        0% { transform: translateY(0); }
+        100% { transform: translateY(-6px); }
+      }
+      
+      .typewriter h1 {
+        display: inline-block;
+        overflow: hidden;
+        border-right: .15em solid white;
+        white-space: nowrap;
+        animation: typing 2.5s steps(40, end), blink .75s step-end infinite;
+      }
+      
+      @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+      }
+      
+      @keyframes blink {
+        50% { border-color: transparent }
+      }
+      .job {
+        background: #ffffff;
+        border-left: 4px solid #2ecc71;
+        border-radius: 8px;
+        padding: 1rem 1.5rem;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+        transition: transform 0.2s ease;
+      }
+      
+      .job:hover {
+        transform: scale(1.01);
+      }
+      .form-section {
+        background: #ffffff;
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      }
+      
+      form input, form textarea {
+        width: 100%;
+        padding: 0.75rem;
+        margin-bottom: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        font-size: 1rem;
+      }
+      
+      form button {
+        background: #2ecc71;
+        color: white;
+        border: none;
+        padding: 0.75rem 2rem;
+        font-size: 1rem;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+      }
+      
+      form button:hover {
+        background: #27ae60;
+      }
+      
+      .thank-you {
+        display: none;
+        background: #e9fce9;
+        color: #2d3436;
+        padding: 1rem;
+        margin-top: 1rem;
+        border-left: 4px solid #2ecc71;
+        border-radius: 6px;
+        text-align: center;
+      }
+      
+      @media (max-width: 600px) {
+        .job {
+          padding: 1rem;
+        }
+      
+        header {
+          padding: 2rem 1rem;
+        }
+      
+        form input, form textarea {
+          font-size: 0.95rem;
+        }
+      
+        form button {
+          width: 100%;
+        }
+      }
+      
+      
+  </style>
+  
+
+</head>
+<body>
+    <header>
+        <div class="typewriter">
+          <h1>Careers at Kissan 🌱</h1>
+        </div>
+        <p>Help us build the future of agri-commerce in India.</p>
+      </header>
+      <section>
+        <h2>Why Join Kissan?</h2>
+        <p>We're a passionate team building tech tools that empower farmers and connect them directly to the market. If you're creative, curious, and care about making a real impact — this is your place.</p>
+      </section>
+      <section>
+        <h2>Open Roles</h2>
+      
+        <div class="job">
+          <h3>Frontend Developer</h3>
+          <p><strong>Location:</strong> Remote</p>
+          <p>Create intuitive, responsive, and beautiful interfaces using HTML, CSS, and JavaScript frameworks.</p>
+        </div>
+      
+        <div class="job">
+          <h3>Backend Developer</h3>
+          <p><strong>Location:</strong> Remote</p>
+          <p>Build scalable APIs and server-side logic using Node.js/Firebase, and ensure smooth data flow across our platform.</p>
+        </div>
+      
+        <div class="job">
+          <h3>UI/UX Designer</h3>
+          <p><strong>Location:</strong> Hybrid / Remote</p>
+          <p>Design clean, accessible, and user-first experiences tailored for our farmer and buyer audiences.</p>
+        </div>
+      </section>
+      <section class="form-section">
+        <h2>Apply Now</h2>
+        <form onsubmit="event.preventDefault(); showMessage();">
+          <input type="text" placeholder="Your Full Name" required />
+          <input type="email" placeholder="Your Email" required />
+          <input type="text" placeholder="Role You're Applying For" required />
+          <textarea rows="6" placeholder="Tell us a bit about yourself and your passion for agriculture-tech..." required></textarea>
+          <button type="submit">Send Application</button>
+        </form>
+        <div class="thank-you" id="thankYouMessage">
+          ✅ Thank you! We’ve received your application and will get back to you shortly.
+        </div>
+      </section>
+      <script>
+        function showMessage() {
+          document.getElementById("thankYouMessage").style.display = "block";
+        }
+      </script>
+      
+<footer>
+        © 2025 Kissan | Empowering Agriculture Through Innovation
+</footer>
+      
+</body>
+</html>
