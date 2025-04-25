@@ -74,6 +74,48 @@
       .job:hover {
         transform: scale(1.01);
       }
+      .form-section {
+        background: #ffffff;
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      }
+      
+      form input, form textarea {
+        width: 100%;
+        padding: 0.75rem;
+        margin-bottom: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        font-size: 1rem;
+      }
+      
+      form button {
+        background: #2ecc71;
+        color: white;
+        border: none;
+        padding: 0.75rem 2rem;
+        font-size: 1rem;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+      }
+      
+      form button:hover {
+        background: #27ae60;
+      }
+      
+      .thank-you {
+        display: none;
+        background: #e9fce9;
+        color: #2d3436;
+        padding: 1rem;
+        margin-top: 1rem;
+        border-left: 4px solid #2ecc71;
+        border-radius: 6px;
+        text-align: center;
+      }
+      
       
   </style>
   
@@ -109,6 +151,19 @@
           <h3>UI/UX Designer</h3>
           <p><strong>Location:</strong> Hybrid / Remote</p>
           <p>Design clean, accessible, and user-first experiences tailored for our farmer and buyer audiences.</p>
+        </div>
+      </section>
+      <section class="form-section">
+        <h2>Apply Now</h2>
+        <form onsubmit="event.preventDefault(); showMessage();">
+          <input type="text" placeholder="Your Full Name" required />
+          <input type="email" placeholder="Your Email" required />
+          <input type="text" placeholder="Role You're Applying For" required />
+          <textarea rows="6" placeholder="Tell us a bit about yourself and your passion for agriculture-tech..." required></textarea>
+          <button type="submit">Send Application</button>
+        </form>
+        <div class="thank-you" id="thankYouMessage">
+          ✅ Thank you! We’ve received your application and will get back to you shortly.
         </div>
       </section>
       
