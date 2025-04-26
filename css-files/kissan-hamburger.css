@@ -115,6 +115,17 @@ height:40vh ;
 
 }
 
+.menu-link {
+  text-decoration: none; /* removes underline */
+  color: white;          /* same as Customer Care text color */
+  display: flex;         /* aligns image and text */
+  align-items: center;   /* vertically center */
+  gap: 10px;             /* space between image and text */
+}
+
+.menu-link:hover {
+  color: #00ffaa; /* light color on hover */
+}
 
 .cart-icon {
   width: 40px;
