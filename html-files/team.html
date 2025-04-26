@@ -37,6 +37,90 @@ header {
       font-size: 1.1rem;
     }
 
+.description {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      font-size: 18px;
+      text-align: center;
+      line-height: 1.7;
+    }
+
+    .contributors {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+      gap: 30px;
+      max-width: 1200px;
+      margin: 0 auto 60px;
+      padding: 0 20px;
+    }
+
+.card {
+      background-color: white;
+      padding: 20px;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s ease forwards;
+    }
+
+    .card:nth-child(2) { animation-delay: 0.2s; }
+    .card:nth-child(3) { animation-delay: 0.4s; }
+    .card:nth-child(4) { animation-delay: 0.6s; }
+    .card:nth-child(5) { animation-delay: 0.8s; }
+
+@keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+.card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    }
+
+    .card img {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+
+    .card h3 {
+      margin: 0 0 10px;
+      font-size: 1.3rem;
+      color: #2ecc71;
+    }
+
+.links a {
+      margin-right: 12px;
+      text-decoration: none;
+      color: #3498db;
+      font-size: 16px;
+    }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
+    .experience {
+      margin-top: 15px;
+      font-size: 15px;
+      color: #555;
+    }
+
+footer {
+      background: #e0f7e9;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #444;
+    }
 
 </style>
 
