@@ -5,6 +5,7 @@ body {
   }
   .footer{
     margin-top:10px;
+
   }
   .footer-links {
     display: flex;
@@ -12,6 +13,7 @@ body {
     justify-content: space-evenly;
     background-color: #232F3E;
     color: white;
+    margin: 20px -68px 0px;
     padding: 40px 10px;
     gap: 20px;
   }
@@ -58,6 +60,7 @@ body {
     color: white;
     text-align: center;
     padding: 20px 10px;
+    margin: 0px -68px 0px;
     font-size: 14px;
   }
   
