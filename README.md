@@ -1,10 +1,10 @@
 # 🌾 Kissan - Farmer's Marketplace Platform
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 ![Responsive](https://img.shields.io/badge/Responsive-Design-%F0%9F%92%BB)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
-> An online platform connecting farmers directly with buyers, promoting transparency and fair trade in agriculture.
+> An innovative online platform designed to bridge the gap between farmers and buyers, enabling direct transactions without intermediaries. By fostering transparency, building trust, and ensuring fair trade practices, the platform empowers farmers to receive better prices for their produce while offering buyers fresh, high-quality goods at competitive rates. It aims to revolutionize the agricultural supply chain, support local farming communities, and create a more sustainable and equitable food ecosystem.
 
 ---
 
@@ -55,6 +55,7 @@ Kissan/
 ## 🌱 Future Enhancements
 
 - ✅ Backend integration (Node.js / Firebase)
+- ✅ Add to cart functionality
 - ✅ Payment gateway support
 - ✅ Ratings & review system
 - ✅ Farmer & buyer dashboards
@@ -69,17 +70,11 @@ Kissan/
 | **Sonam Norphel Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [Sonam Negi](https://www.linkedin.com/in/sonam-norphel-negi) |
 | **Krishna Nautiyal**| [@krishnanautiyal](https://github.com/krishnanautiyal)        | [Krishna Nautiyal](https://www.linkedin.com/in/krishnanautiyal)  |
 | **Shamreet Singh**| [@ShamreetSingh](https://github.com/ShamreetSingh)        | [Shamreet Singh](https://www.linkedin.com/in/shamreetsingh)  |
-| **Contributor 4**| [codershivam96](https://github.com/codershivam96)        | [LinkedIn](https://www.linkedin.com/in/shivam-singhania-336161351)  |
-| **Contributor 5**| [saksham](https://github.com/Sakshmm)        | [LinkedIn](https://www.linkedin.com/in/ꜱᴀᴋꜱʜᴀᴍ-ᴛʜᴀᴋᴜʀ-b3a9b3362)  |
+| **CShivam Singhania**| [codershivam96](https://github.com/codershivam96)        | [Shivam Singhania](https://www.linkedin.com/in/shivam-singhania-336161351)  |
+| **Saksham Thakur**| [saksham](https://github.com/Sakshmm)        | [Saksham Thakur](https://www.linkedin.com/in/ꜱᴀᴋꜱʜᴀᴍ-ᴛʜᴀᴋᴜʀ-b3a9b3362)  |
 
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License**. You’re free to use, modify, and distribute it for personal or commercial use.
-
----
 
 ## 📬 Get in Touch
 
