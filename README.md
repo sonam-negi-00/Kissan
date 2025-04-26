@@ -11,9 +11,8 @@
 ## 🚀 Features
 
 - 🧑‍🌾 Farmer-friendly online marketplace
-- 📦 Product categories: **Vegetables**, **Seeds**, **Tools**, **Pesticides**
+- 📦 Product categories: **Vegetables**, **Seeds**, **Tools**, **Pesticides**, **Fertilizers**
 - 🔐 User authentication: sign-in & sign-up modals
-- 🛒 "Add to Cart" functionality
 - 🎞️ Dynamic image sliders & UI animations
 - 📱 Fully responsive across devices
 
@@ -63,8 +62,8 @@ Kissan/
 | **Sonam Norphel Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [Sonam Negi](https://www.linkedin.com/in/sonam-norphel-negi) |
 | **Krishna Nautiyal**| [@krishnanautiyal](https://github.com/krishnanautiyal)        | [Krishna Nautiyal](https://www.linkedin.com/in/krishnanautiyal)  |
 | **Shamreet Singh**| [@ShamreetSingh](https://github.com/ShamreetSingh)        | [Shamreet Singh](https://www.linkedin.com/in/shamreetsingh)  |
-| **Contributor 4**| [GitHub](https://github.com/contributor4)        | [LinkedIn](https://www.linkedin.com/in/contributor4)  |
-| **Contributor 5**| [GitHub](https://github.com/contributor5)        | [LinkedIn](https://www.linkedin.com/in/contributor5)  |
+| **Contributor 4**| [codershivam96](https://github.com/codershivam96)        | [LinkedIn](https://www.linkedin.com/in/contributor4)  |
+| **Contributor 5**| [saksham](https://github.com/Sakshmm)        | [LinkedIn](https://www.linkedin.com/in/contributor5)  |
 
 
 ---
@@ -78,7 +77,6 @@ This project is licensed under the **MIT License**. You’re free to use, modify
 ## 📬 Get in Touch
 
 📧 For collaboration, questions or suggestions:  
-**Created by [Sonam Negi](https://github.com/sonam-negi-00)**  
 📎 [Connect on LinkedIn](https://www.linkedin.com/in/sonam-norphel-negi)
 
 ---
