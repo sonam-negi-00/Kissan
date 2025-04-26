@@ -17,6 +17,13 @@
 - 📱 Fully responsive across devices
 
 ---
+## 🚀 Technologies Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ## 📁 Project Structure
 
@@ -62,8 +69,8 @@ Kissan/
 | **Sonam Norphel Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [Sonam Negi](https://www.linkedin.com/in/sonam-norphel-negi) |
 | **Krishna Nautiyal**| [@krishnanautiyal](https://github.com/krishnanautiyal)        | [Krishna Nautiyal](https://www.linkedin.com/in/krishnanautiyal)  |
 | **Shamreet Singh**| [@ShamreetSingh](https://github.com/ShamreetSingh)        | [Shamreet Singh](https://www.linkedin.com/in/shamreetsingh)  |
-| **Contributor 4**| [codershivam96](https://github.com/codershivam96)        | [LinkedIn](https://www.linkedin.com/in/contributor4)  |
-| **Contributor 5**| [saksham](https://github.com/Sakshmm)        | [LinkedIn](https://www.linkedin.com/in/contributor5)  |
+| **Contributor 4**| [codershivam96](https://github.com/codershivam96)        | [LinkedIn](https://www.linkedin.com/in/shivam-singhania-336161351)  |
+| **Contributor 5**| [saksham](https://github.com/Sakshmm)        | [LinkedIn](https://www.linkedin.com/in/ꜱᴀᴋꜱʜᴀᴍ-ᴛʜᴀᴋᴜʀ-b3a9b3362)  |
 
 
 ---
