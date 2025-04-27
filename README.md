@@ -69,7 +69,7 @@ Kissan/
 |------------------|--------------------------------------------------|-------------------------------------------------|
 | **Sonam Norphel Negi**   | [@sonam-negi-00](https://github.com/sonam-negi-00) | [Sonam Negi](https://www.linkedin.com/in/sonam-norphel-negi) |
 | **Krishna Nautiyal**| [@krishnanautiyal](https://github.com/krishnanautiyal)        | [Krishna Nautiyal](https://www.linkedin.com/in/krishnanautiyal)  |
-| **Shamreet Singh**| [@ShamreetSingh](https://github.com/ShamreetSingh)        | [Shamreet Singh](https://www.linkedin.com/in/shamreetsingh)  |
+| **Shamreet Singh**| [@ShamreetSingh](https://github.com/ShamreetSingh)        | [Shamreet Singh](https://www.linkedin.com/in/shamreet-singh-065213339)  |
 | **CShivam Singhania**| [codershivam96](https://github.com/codershivam96)        | [Shivam Singhania](https://www.linkedin.com/in/shivam-singhania-336161351)  |
 | **Saksham Thakur**| [saksham](https://github.com/Sakshmm)        | [Saksham Thakur](https://www.linkedin.com/in/ꜱᴀᴋꜱʜᴀᴍ-ᴛʜᴀᴋᴜʀ-b3a9b3362)  |
 
