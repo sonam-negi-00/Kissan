@@ -56,6 +56,12 @@ Kissan/
 
 > ⚠️ Note: This project is frontend-only. Backend (authentication, cart persistence, etc.) will be added soon.
 
+
+## 🌐 Live Demo
+You can also visit the live version of the project at:
+
+https://sonam-negi-00.github.io/Kissan/
+
 ---
 
 ## 🌱 Future Enhancements
