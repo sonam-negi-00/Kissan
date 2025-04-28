@@ -7,6 +7,12 @@
 > An innovative online platform designed to bridge the gap between farmers and buyers, enabling direct transactions without intermediaries. By fostering transparency, building trust, and ensuring fair trade practices, the platform empowers farmers to receive better prices for their produce while offering buyers fresh, high-quality goods at competitive rates. It aims to revolutionize the agricultural supply chain, support local farming communities, and create a more sustainable and equitable food ecosystem.
 
 ---
+## Wireframe
+
+(![WhatsApp Image 2025-04-11 at 12 26 17_4762f4eb](https://github.com/user-attachments/assets/caabc239-06be-4c6b-8f94-97a750040a8a)
+)
+
+
 
 ## 🚀 Features
 
